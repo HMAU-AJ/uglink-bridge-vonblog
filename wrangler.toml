@@ -4,7 +4,7 @@ compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://hmau.cn24.ug.link"
-PORT = "44901"
+PORT = "5445"
 USERNAME = "hmau"
 
 [[kv_namespaces]]
